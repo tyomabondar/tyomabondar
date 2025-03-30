@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tyomabondar
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning idk
+- 👋 Hi, I’m tyoma
+- 👀 I’m interested in coding and taiko no tatsujin
+- 🌱 I’m currently learning python (the programming language )
 - 💞️ I’m looking to collaborate on anyone
 - 📫 Mail:tyomabondar444@gmail.com
 - 😄 Pronouns:he/him 
