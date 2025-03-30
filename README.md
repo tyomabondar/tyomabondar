@@ -1,3 +1,5 @@
+me after playing taiko no tatsujin for 12 hours or so:
+
 ![don](https://github.com/user-attachments/assets/75f54a65-ea47-4c64-823c-8d28027f5886)
 
 
