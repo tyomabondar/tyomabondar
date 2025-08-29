@@ -6,7 +6,7 @@ me after playing taiko no tatsujin for 12 hours or so:
 - 👋 Hi, I’m tyoma
 - 👀 I’m interested in coding and taiko no tatsujin
 - 🌱 I’m currently learning python (the programming language )
-- 💞️ I’m looking to collaborate on anyone
+- 💞️ I’m looking to collaborate with anyone
 - 📫 Mail:tyomabondar444@gmail.com
 - 😄 Pronouns:he/him 
 - ⚡ Fun fact: i sometimes code
