@@ -10,7 +10,7 @@ me after playing taiko no tatsujin for 12 hours or so:
 - 📫 Mail:tyomabondar444@gmail.com
 - 😄 Pronouns:he/him 
 - ⚡ Fun fact: i sometimes code
-[![My Skills](https://skillicons.dev/icons?i=js,python,gcp,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,python,gcp,swift)](https://skillicons.dev)
 
 <!---
 tyomabondar/tyomabondar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
