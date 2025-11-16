@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tyoma's world</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Arial', sans-serif;
+      background: linear-gradient(120deg, #1e1e2f, #3a3a5c);
+      color: #fff;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 4rem;
+      margin: 0;
+      letter-spacing: 3px;
+      animation: glow 2s ease-in-out infinite alternate;
+    }
+
+    p {
+      font-size: 1.2rem;
+      max-width: 600px;
+      line-height: 1.5;
+      margin: 20px 0;
+    }
+
+    a {
+      color: #ff6ec4;
+      text-decoration: none;
+      font-weight: bold;
+      margin: 0 10px;
+      transition: color 0.3s;
+      cursor: pointer;
+    }
+
+    a:hover {
+      color: #7873f5;
+    }
+
+    .links {
+      margin-top: 20px;
+    }
+
+    @keyframes glow {
+      from { text-shadow: 0 0 5px #ff6ec4, 0 0 10px #ff6ec4; }
+      to { text-shadow: 0 0 20px #7873f5, 0 0 30px #7873f5; }
+    }
+
+    .section {
+      padding: 40px 20px;
+      max-width: 800px;
+    }
+
+    .skills span {
+      display: inline-block;
+      background: #ff6ec4;
+      color: #1e1e2f;
+      padding: 5px 12px;
+      margin: 5px;
+      border-radius: 20px;
+      font-weight: bold;
+      transition: transform 0.3s;
+    }
+
+    .skills span:hover {
+      transform: scale(1.2);
+    }
+  </style>
+</head>
+<body>
+  <h1>hi, i'm tyoma</h1>
+  <p>i'm a creative mind, developer, and taiko enthusiast. i love making cool projects, experimenting with code, and sharing my ideas with the world.</p>
+
+  <div class="section skills">
+    <h2>my skills</h2>
+    <span>HTML</span>
+    <span>Py fucking thon</span>
+    <span>CSS</span>
+    <span>JS</span>
+    <span>Arduino (new to it, if u have any tips let me know)</span>
+    <span>RBXL Studio (no coding, sorry)</span>
+  </div>
+
+  <div class="section links">
+    <h2>find me online</h2>
+    <a href="https://github.com/tyomabondar" target="_blank">GitHub</a>
+    <a onclick="alert('don\'t have one, sorry :(')">Portfolio</a>
+    <a href="mailto:tyomabondar444@gmail.com">Contact</a>
+  </div>
+</body>
+</html>
