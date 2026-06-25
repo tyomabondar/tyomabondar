@@ -11,7 +11,7 @@ me after playing taiko no tatsujin for 12 hours or so:
 - 😄 Pronouns:he/him 
 - ⚡ Fun fact: i sometimes code
 
-- i dont know a lot of coding so i use gpt for most coding , im sorry everyone :(
+- i have kinda advanced in lua which is basically python :3 
 [![My Skills](https://skillicons.dev/icons?i=,python,gcp,swift)](https://skillicons.dev)
 
 <!---
