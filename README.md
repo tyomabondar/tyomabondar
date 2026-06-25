@@ -12,7 +12,7 @@ me after playing taiko no tatsujin for 12 hours or so:
 - ⚡ Fun fact: i sometimes code
 
 - i have kinda advanced in lua which is basically python :3 
-[![My Skills](https://skillicons.dev/icons?i=,python,gcp,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,python,gcp,swift,lua)](https://skillicons.dev)
 
 <!---
 tyomabondar/tyomabondar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
